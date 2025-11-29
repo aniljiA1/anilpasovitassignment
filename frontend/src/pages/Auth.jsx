@@ -34,8 +34,5 @@ export default function Auth(){
       <p onClick={()=>setIsLogin(v=>!v)} style={{cursor:'pointer'}}>{isLogin ? 'Create account' : 'Have an account? Login'}</p>
     </div>
   );
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> be50ace (Initial commit)
