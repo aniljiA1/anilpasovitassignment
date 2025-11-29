@@ -54,8 +54,5 @@ export default function Cart(){
       <button onClick={()=>navigate('/checkout')}>Checkout</button>
     </div>
   );
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> be50ace (Initial commit)
