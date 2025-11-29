@@ -136,7 +136,7 @@ Open browser at: http://localhost:5173/
 
 Deploy:
 backend: https://anilpasovitbackends.onrender.com/
-frontend: https://anilpasovitassignment.vercel.app/
+frontend: https://anilpasovitassignment-12.onrender.com/
 
 live-deploy: https://anilpasovitassignment.vercel.app/
 
