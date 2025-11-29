@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 app.use(cors({
-  origin: 'http://localhost:5173',
+  origin: ['http://localhost:5173', 'https://anilpasovitassignment-12.onrender.com'],
   credentials: true
 }));
 
