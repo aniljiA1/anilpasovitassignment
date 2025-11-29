@@ -13,14 +13,14 @@ app.use(cors({
 }));
 
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 'https://anilpasovitbackend.onrender.com';
 
 app.get("/", (req, res) => {
   res.send("Backend is running successfully!");
 });
 
 
-connectDB(process.env.MONGO_URI || 'mongodb://localhost:27017/merndb')
+connectDB(process.env.MONGO_URI || 'mongodb+srv://aniljiA1:anil12345@cluster0.9wr0ivl.mongodb.net/?appName=Cluster0')
   .then(() => console.log('MongoDB connected'))
   .catch(err => { console.error(err); process.exit(1); });
 
