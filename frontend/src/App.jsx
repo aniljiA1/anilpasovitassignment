@@ -16,8 +16,5 @@ function App() {
   );
 }
 
-<<<<<<< HEAD
+
 export default App;
-=======
-export default App;
->>>>>>> be50ace (Initial commit)
