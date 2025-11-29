@@ -9,8 +9,5 @@ export async function api(path, opts = {}) {
     ...opts
   });
   return res.json();
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> be50ace (Initial commit)
+
