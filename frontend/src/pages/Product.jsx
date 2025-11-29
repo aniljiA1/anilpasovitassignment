@@ -87,8 +87,5 @@ export default function Home() {
       </div>
     </div>
   );
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> be50ace (Initial commit)
