@@ -60,4 +60,8 @@ export default function Checkout(){
       <button onClick={placeOrder}>Place Order</button>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> be50ace (Initial commit)

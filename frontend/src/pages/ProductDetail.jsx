@@ -64,4 +64,8 @@ export default function ProductDetail(){
       <button disabled={!size} onClick={addToCart}>Add to cart</button>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> be50ace (Initial commit)
