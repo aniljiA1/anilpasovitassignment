@@ -12,7 +12,3 @@ root.render(
   </BrowserRouter>
 );
 
-<<<<<<< HEAD
-
-=======
->>>>>>> be50ace (Initial commit)
