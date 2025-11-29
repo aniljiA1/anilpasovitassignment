@@ -115,6 +115,10 @@ EMAIL_USER=eeeanilkumar1995@gmail.com
 EMAIL_PASS=Anil@123
 FROM_EMAIL="Clothing Brand" <eeeanilkumar1995@gmail.com>
 
+Environment Variables
+Create a .env file in the frontend:
+VITE_API_BASE=https://anilpasovitbackends.onrender.com
+
 Running the App
 Backend
 npm start
@@ -123,7 +127,7 @@ npm run dev
 or 
 node server.js
 Open browser at : http://localhost:5000
-deploy: https://anilpasovitbackend.onrender.com/
+deploy: https://anilpasovitbackends.onrender.com/
 
 Frontend
 
