@@ -138,5 +138,5 @@ Deploy:
 backend: https://anilpasovitbackends.onrender.com/
 frontend: https://anilpasovitassignment-12.onrender.com/
 
-live-deploy: https://anilpasovitassignment.vercel.app/
+live-deploy: https://anilpasovitassignment-12.onrender.com/
 
